@@ -1,0 +1,6 @@
+item_group,item_text,unit,default
+Allgemein,Zugang Dachflächen / Sicherheit (Geländer, Anschlagpunkte),,offen
+PV/Elektrik,Zählerschrank Zustand & Reserven,,offen
+PV/Elektrik,Netzverknüpfungspunkt (Hausanschluss, NH, SLS),,offen
+Gebäude,Dachaufbau / Statik plausibel (Sichtprüfung),,offen
+Dokumente,Fotos/Skizze Dach (Ausrichtung, Hindernisse),,offen

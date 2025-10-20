@@ -1,0 +1,3 @@
+inspection_id,date,technician,customer_name,customer_email,customer_phone,address,city,plz,bundesland,liegenschaftsnummer,variant_combo,item_id,item_group,item_text,status,value,unit,notes
+INS-20251020100000,2025-10-20,Max Muster,WEG Hauptstraße 12,max@example.com,01234-5678,Hauptstraße 12,Freiburg,79100,BW,LG-12345,Bronze+Silber,ITM-001,PV/Elektrik,Zählerschrank Zustand & Reserven,offen,,,Foto ergänzt
+INS-20251020100000,2025-10-20,Max Muster,WEG Hauptstraße 12,max@example.com,01234-5678,Hauptstraße 12,Freiburg,79100,BW,LG-12345,Bronze+Silber,ITM-002,Gebäude,Dachaufbau / Statik plausibel (Sichtprüfung),ok,,,ohne Auffälligkeiten

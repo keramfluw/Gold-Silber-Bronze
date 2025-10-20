@@ -1,0 +1,6 @@
+item_group,item_text,unit,default
+PV/Elektrik,String-Layout & Wechselrichter-Standort (Vorplanung),,offen
+PV/Elektrik,Lastgänge / Verbrauchsstruktur (sofern vorhanden),,offen
+Systeme,Speicher / Ladeinfrastruktur / WP: Machbarkeit & Schnittstellen,,offen
+Regulatorik,Messkonzept (GGV/Mieterstrom) – Detailaufnahme,,offen
+Risiken,Sonderpunkte: Statik-Red Flags, Brandschutz, Denkmalschutz,,offen
